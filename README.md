@@ -5,10 +5,10 @@ The system allows users to configure medicine reminder timings through a keypad 
 The project provides an easy-to-use interface for setting and modifying reminder schedules, making it suitable for elderly people and patients with chronic illnesses who require timely medication. By combining real-time monitoring, configurable scheduling and audio-visual alerts, the system improves medication adherence and reduces the possibility of missed doses.
 
 Key Features:
-User-configurable medicine reminder timings.
-Real-Time Clock (RTC) for accurate timekeeping.
-LCD display for date, time, and reminder messages.
-Matrix keypad for entering and updating reminder schedules.
-Buzzer-based alert for medicine notifications.
-External interrupt support to acknowledge or stop reminders.
-Reliable and low-cost embedded healthcare solution.
+1.User-configurable medicine reminder timings.
+2.Real-Time Clock (RTC) for accurate timekeeping.
+3.LCD display for date, time, and reminder messages.
+4.Matrix keypad for entering and updating reminder schedules.
+5.Buzzer-based alert for medicine notifications.
+6.External interrupt support to acknowledge or stop reminders.
+7.Reliable and low-cost embedded healthcare solution.
